@@ -1,0 +1,1 @@
+This Weather App is a responsive web application built using React, HTML, and CSS. It allows users to search for any city and view real-time weather data including temperature, humidity, and weather conditions. The app fetches data from a public weather API and displays it in a clean, user-friendly UI.
